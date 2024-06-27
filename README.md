@@ -74,7 +74,6 @@ I'm a passionate Developer with expertise in both front-end and back-end technol
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mahdjalili)
 
 ## 📈 GitHub Stats
-![Mahdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahdjalili&show_icons=true&theme=flat)
 ![Mahdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahdjalili&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdjalili&layout=compact&theme=radical)
 
