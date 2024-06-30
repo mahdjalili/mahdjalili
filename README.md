@@ -6,6 +6,7 @@ I'm a passionate Developer with expertise in both front-end and back-end technol
 ## 🛠 Skills
 
 <div align="center">
+  
 ### Front-end
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=flat&logo=react&logoColor=white)
