@@ -1,7 +1,7 @@
 # Hi there, I'm Mahdi 👋
 
 ### 🚀 About Me
-I'm a passionate Developer with expertise in both front-end and back-end technologies. I love building applications that solve real-world problems and continuously learning new technologies to enhance my skill set.
+I'm a Developer with expertise in both front-end and back-end technologies. I love building applications that solve real-world problems and continuously learning new technologies to enhance my skill set.
 
 ## 🛠 Skills
 
